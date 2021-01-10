@@ -191,8 +191,8 @@ def toucheQ(event):
 
 # Variables globales
 c = 14		  # taille des carrés
-nbLignes = 30     # Nombre de lignes dans le tableau (60)
-nbColonnes = 60   # Nombre de colonnes dans le tableau (119)
+nbLignes = 30     # Nombre de cellules par ligne dans le tableau
+nbColonnes = 60   # Nombre de cellules par colonne dans le tableau
 pause = False     # Indique si le jeu doit etre mis en pause
 jeuEnCours = False  # Indique qu'un jeu est en cours (en pause ou non)
 fin = False       # L'application est toujours utilisable
